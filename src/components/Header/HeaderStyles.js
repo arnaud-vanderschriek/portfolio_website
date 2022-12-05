@@ -57,7 +57,7 @@ export const NavLink = styled.a`
   color: rgba(255, 255, 255, 0.75);
   transition: 0.4s ease;
   &:hover {
-    color: #fff;
+    color: #48a9ea;
     opacity: 1;
     cursor: pointer;
   }
